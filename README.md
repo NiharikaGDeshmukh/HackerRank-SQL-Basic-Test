@@ -18,3 +18,4 @@ ON a.stock_code = b.stock_code
 WHERE b.price>a.price
 ORDER BY stock_code asc;
 
+Certificate Link : https://www.hackerrank.com/certificates/46ae1d36c843
